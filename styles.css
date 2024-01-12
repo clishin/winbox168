@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(8, 8, 8);
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  .footer{
+    background-color: #3a993f00;
+    font-family: Tahoma, Arial;
+    font-size: 15px;
+    color: rgba(235, 237, 232, 0);
+    position: fixed;
+    height: 110px;
+    width:110px;
+    left:15px;
+    bottom:10px;
+  }
